@@ -36,7 +36,7 @@ A Streamlit-based Generative AI project that summarizes PDF documents and allows
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/auto-summary-app.git
+https://github.com/Muskangupta2983/GenAi/tree/main
 cd auto-summary-app
 
 # Create Environment
